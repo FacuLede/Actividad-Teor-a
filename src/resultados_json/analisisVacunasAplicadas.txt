@@ -1,0 +1,15 @@
+[
+    {
+        "Dosis Aplicadas": 7715006,
+        "Tipos de vacunas y cantidades": {
+            "AstraZeneca ChAdOx1 S recombinante": 852567,
+            "Sinopharm Vacuna SARSCOV 2 inactivada": 1836509,
+            "COVISHIELD ChAdOx1nCoV COVID 19": 604147,
+            "Sputnik V COVID19 Instituto Gamaleya": 4421783
+        },
+        "Provincia con mas dosis": [
+            "Buenos Aires",
+            2986654
+        ]
+    }
+]

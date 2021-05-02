@@ -1,0 +1,32 @@
+[
+    {
+        "Funcionarios que viajaron en diciembre de 2019": [
+            "Maria Julia Lardone",
+            "Gustavo Antonio MINGONE",
+            "Natal\u00ed Giselle Aranda",
+            "Liliana Haydee Gasco",
+            "Melina Andrea CONTI",
+            "F\u00e9lix Mart\u00edn SOTO",
+            "MARTIN JUAN MAINERO",
+            "Mar\u00eda Fernanda Diaz"
+        ],
+        "Jurisdiccion que mas viajes hizo en 2020 y cantidad de viajes": [
+            "Comisi\u00f3n Nacional de Energ\u00eda At\u00f3mica",
+            53
+        ],
+        "Destinos mas frecuentes": [
+            [
+                "ESTADOS UNIDOS",
+                168
+            ],
+            [
+                "BRASIL",
+                87
+            ],
+            [
+                "ARGENTINA",
+                73
+            ]
+        ]
+    }
+]
