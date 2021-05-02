@@ -12,7 +12,7 @@ def funcQueViajaronEntreDosFechas(csv_lista,fecha_inicio,fecha_fin) :
     return nombres
     
 def filtrarPorFecha(csv_lista,fecha_inicio,fecha_fin) :
-    """Esta función recibe una lsita de viajes y dos fechas 
+    """Esta función recibe una lista de viajes y dos fechas 
     y retorna un subconjunto de la lista conformado por aquellos viajes
     que pertencen al intervalo entre ambas fechas
     """
@@ -56,6 +56,10 @@ def getMaxJurisdicciones(jurisdicciones,viajes) :
     return max
 
 def getJurisdiccionConMasViajesEnUnAnio(viajes,anio) :
+    """Retorna una tupla que contiene la jurisdiccion que mas viajes
+    realizó en el año recibido por parámetro y la cantidad de viajes
+    que realizó en ese mismo año
+    """
     viajes_en_el_anio=getViajesEnUnAnio(viajes,anio)
     jurisdicciones=funciones.elementosDeCampoSinRepetir(viajes_en_el_anio,4)
     return getMaxJurisdicciones(jurisdicciones,viajes)
